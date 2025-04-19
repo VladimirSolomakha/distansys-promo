@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Distansys logo" width="120" />
+  <img src="logo.jpg" alt="Distansys logo" width="120" />
 </p>
 
 <h1 align="center">Distansys</h1>
